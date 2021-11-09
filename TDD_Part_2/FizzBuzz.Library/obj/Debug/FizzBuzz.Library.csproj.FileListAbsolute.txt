@@ -1,0 +1,6 @@
+D:\GitHub\Test_Driven_Development\TDD_Part_2\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.dll
+D:\GitHub\Test_Driven_Development\TDD_Part_2\FizzBuzz.Library\bin\Debug\FizzBuzz.Library.pdb
+D:\GitHub\Test_Driven_Development\TDD_Part_2\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.csprojAssemblyReference.cache
+D:\GitHub\Test_Driven_Development\TDD_Part_2\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.csproj.CoreCompileInputs.cache
+D:\GitHub\Test_Driven_Development\TDD_Part_2\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.dll
+D:\GitHub\Test_Driven_Development\TDD_Part_2\FizzBuzz.Library\obj\Debug\FizzBuzz.Library.pdb

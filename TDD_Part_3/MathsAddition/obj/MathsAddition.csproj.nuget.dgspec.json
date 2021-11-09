@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitHub\\Test_Driven_Development\\TDD_Part_3\\MathsAddition\\MathsAddition.csproj": {}
+  },
+  "projects": {
+    "D:\\GitHub\\Test_Driven_Development\\TDD_Part_3\\MathsAddition\\MathsAddition.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\Test_Driven_Development\\TDD_Part_3\\MathsAddition\\MathsAddition.csproj",
+        "projectName": "MathsAddition",
+        "projectPath": "D:\\GitHub\\Test_Driven_Development\\TDD_Part_3\\MathsAddition\\MathsAddition.csproj",
+        "packagesPath": "C:\\Users\\San10\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\Test_Driven_Development\\TDD_Part_3\\MathsAddition\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\San10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\GitHub\\Test_Driven_Development\\TDD_Part_3\\MathsComponent\\MathsComponent.csproj": {
+                "projectPath": "D:\\GitHub\\Test_Driven_Development\\TDD_Part_3\\MathsComponent\\MathsComponent.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHub\\Test_Driven_Development\\TDD_Part_3\\MathsComponent\\MathsComponent.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\Test_Driven_Development\\TDD_Part_3\\MathsComponent\\MathsComponent.csproj",
+        "projectName": "MathsComponent",
+        "projectPath": "D:\\GitHub\\Test_Driven_Development\\TDD_Part_3\\MathsComponent\\MathsComponent.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

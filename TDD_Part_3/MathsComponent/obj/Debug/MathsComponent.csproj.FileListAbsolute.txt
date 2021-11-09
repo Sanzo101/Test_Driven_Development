@@ -1,0 +1,6 @@
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsComponent\bin\Debug\MathsComponent.dll
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsComponent\bin\Debug\MathsComponent.pdb
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsComponent\obj\Debug\MathsComponent.csprojAssemblyReference.cache
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsComponent\obj\Debug\MathsComponent.csproj.CoreCompileInputs.cache
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsComponent\obj\Debug\MathsComponent.dll
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsComponent\obj\Debug\MathsComponent.pdb

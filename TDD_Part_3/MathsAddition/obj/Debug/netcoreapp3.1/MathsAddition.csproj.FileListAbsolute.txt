@@ -1,0 +1,16 @@
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\bin\Debug\netcoreapp3.1\MathsAddition.exe
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\obj\Debug\netcoreapp3.1\MathsAddition.csprojAssemblyReference.cache
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\obj\Debug\netcoreapp3.1\MathsAddition.AssemblyInfoInputs.cache
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\obj\Debug\netcoreapp3.1\MathsAddition.AssemblyInfo.cs
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\obj\Debug\netcoreapp3.1\MathsAddition.csproj.CopyComplete
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\obj\Debug\netcoreapp3.1\MathsAddition.csproj.CoreCompileInputs.cache
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\bin\Debug\netcoreapp3.1\MathsAddition.deps.json
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\bin\Debug\netcoreapp3.1\MathsAddition.runtimeconfig.json
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\bin\Debug\netcoreapp3.1\MathsAddition.runtimeconfig.dev.json
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\bin\Debug\netcoreapp3.1\MathsAddition.dll
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\bin\Debug\netcoreapp3.1\MathsAddition.pdb
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\bin\Debug\netcoreapp3.1\MathsComponent.dll
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\bin\Debug\netcoreapp3.1\MathsComponent.pdb
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\obj\Debug\netcoreapp3.1\MathsAddition.dll
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\obj\Debug\netcoreapp3.1\MathsAddition.pdb
+D:\GitHub\Test_Driven_Development\TDD_Part_3\MathsAddition\obj\Debug\netcoreapp3.1\MathsAddition.genruntimeconfig.cache
