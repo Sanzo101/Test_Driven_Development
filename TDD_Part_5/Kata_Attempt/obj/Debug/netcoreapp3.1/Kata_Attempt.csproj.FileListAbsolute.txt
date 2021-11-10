@@ -1,0 +1,16 @@
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\bin\Debug\netcoreapp3.1\Kata_Attempt.exe
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\bin\Debug\netcoreapp3.1\Kata_Attempt.deps.json
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\bin\Debug\netcoreapp3.1\Kata_Attempt.runtimeconfig.json
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\bin\Debug\netcoreapp3.1\Kata_Attempt.runtimeconfig.dev.json
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\bin\Debug\netcoreapp3.1\Kata_Attempt.dll
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\bin\Debug\netcoreapp3.1\Kata_Attempt.pdb
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\obj\Debug\netcoreapp3.1\Kata_Attempt.csprojAssemblyReference.cache
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\obj\Debug\netcoreapp3.1\Kata_Attempt.AssemblyInfoInputs.cache
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\obj\Debug\netcoreapp3.1\Kata_Attempt.AssemblyInfo.cs
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\obj\Debug\netcoreapp3.1\Kata_Attempt.csproj.CoreCompileInputs.cache
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\obj\Debug\netcoreapp3.1\Kata_Attempt.dll
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\obj\Debug\netcoreapp3.1\Kata_Attempt.pdb
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\obj\Debug\netcoreapp3.1\Kata_Attempt.genruntimeconfig.cache
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\bin\Debug\netcoreapp3.1\Initial_Converter.dll
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\bin\Debug\netcoreapp3.1\Initial_Converter.pdb
+D:\GitHub\Test_Driven_Development\TDD_Part_5\Kata_Attempt\obj\Debug\netcoreapp3.1\Kata_Attempt.csproj.CopyComplete
