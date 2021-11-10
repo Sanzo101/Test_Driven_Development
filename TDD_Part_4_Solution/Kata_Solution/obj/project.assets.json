@@ -1,0 +1,87 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "High_and_Low/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/High_and_Low.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/High_and_Low.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "High_and_Low/1.0.0": {
+      "type": "project",
+      "path": "../High_and_Low/High_and_Low.csproj",
+      "msbuildProject": "../High_and_Low/High_and_Low.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "High_and_Low >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\San10\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\GitHub\\Test_Driven_Development\\TDD_Part_4_Solution\\Kata_Solution\\Kata_Solution.csproj",
+      "projectName": "Kata_Solution",
+      "projectPath": "D:\\GitHub\\Test_Driven_Development\\TDD_Part_4_Solution\\Kata_Solution\\Kata_Solution.csproj",
+      "packagesPath": "C:\\Users\\San10\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\Test_Driven_Development\\TDD_Part_4_Solution\\Kata_Solution\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\San10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\GitHub\\Test_Driven_Development\\TDD_Part_4_Solution\\High_and_Low\\High_and_Low.csproj": {
+              "projectPath": "D:\\GitHub\\Test_Driven_Development\\TDD_Part_4_Solution\\High_and_Low\\High_and_Low.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

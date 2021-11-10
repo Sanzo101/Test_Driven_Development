@@ -67,7 +67,6 @@ namespace HighandLow
             HighLow obj = new HighLow();
             string result = obj.ConvertToString("3 1 2 4 6 7 3 9 3 5 6 3 2 4");
             Assert.AreEqual("1 9", result);
-        }   
-        
+        }
     }
 }

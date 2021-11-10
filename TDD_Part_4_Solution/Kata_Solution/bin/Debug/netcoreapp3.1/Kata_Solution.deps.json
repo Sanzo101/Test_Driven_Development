@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kata_Solution/1.0.0": {
+        "dependencies": {
+          "High_and_Low": "1.0.0"
+        },
+        "runtime": {
+          "Kata_Solution.dll": {}
+        }
+      },
+      "High_and_Low/1.0.0": {
+        "runtime": {
+          "High_and_Low.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kata_Solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "High_and_Low/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

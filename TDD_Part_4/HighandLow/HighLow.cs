@@ -63,6 +63,6 @@ namespace HighandLow
             char[] HighestandLowest = { Arr[0],' ', Arr[Arr.Length - 1] };
             string output = new string(HighestandLowest);
             return output;
-        }    
+        }
     }
 }
